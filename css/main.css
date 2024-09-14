@@ -101,3 +101,27 @@ main {
 .weather-card p i {
   margin-inline-end: 1rem;
 }
+
+img {
+  width: 40%;
+}
+
+section {
+  padding: 0 0 4rem 2rem;
+}
+
+dl {
+  line-height: 2rem;
+}
+
+dt{
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+dd{
+  text-indent: 0.3rem;
+}
+.dlist {
+  display: flex;
+}
